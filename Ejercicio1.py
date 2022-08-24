@@ -48,9 +48,6 @@ class Ejercicio1:
             salida.append((n,contador))
         return salida
 
-
-
-
 if __name__ == "__main__":
    pass
 
